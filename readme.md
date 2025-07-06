@@ -110,6 +110,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [Muhammad Taha](https://www.linkedin.com/in/muhammad-taha101/) - toaha155@gmail.com
+Name - [Muhammad Taha](https://www.linkedin.com/in/muhammad-taha101/) - toaha155@gmail.com
 
 Linkedin: https://www.linkedin.com/in/muhammad-taha101/
